@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov
+END
+key-vs-max-teststeps-in-cluster-id-1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/MOCHB/!svn/ver/1070/diss/gfx/MBT/plots/parallel/liccov/key-vs-max-teststeps-in-cluster-id-1.dat
+END
+key-vs-min-teststeps-in-cluster-id.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-min-teststeps-in-cluster-id.dat
+END
+key-vs-internallydischargedtos-only-min-internal-discharges-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-internallydischargedtos-only-min-internal-discharges-in-cluster.dat
+END
+key-vs-cputime-only-min-cputime-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-cputime-only-min-cputime-in-cluster.dat
+END
+key-vs-max-teststeps-in-cluster-id.dat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-max-teststeps-in-cluster-id.dat
+END
+key-vs-internallydischargedtos-only-max-internal-discharges-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-internallydischargedtos-only-max-internal-discharges-in-cluster.dat
+END
+key-vs-steps.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-steps.dat
+END
+key-vs-cputime-only-max-cputime-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-cputime-only-max-cputime-in-cluster.dat
+END
+key-vs-test-wallclocktime-only-max-wallclock-time-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/MOCHB/!svn/ver/1203/diss/gfx/MBT/plots/parallel/liccov/key-vs-test-wallclocktime-only-max-wallclock-time-in-cluster.dat
+END
+key-vs-cputime-1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/MOCHB/!svn/ver/1202/diss/gfx/MBT/plots/parallel/liccov/key-vs-cputime-1.dat
+END
+key-vs-test-wallclocktime-1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/MOCHB/!svn/ver/1203/diss/gfx/MBT/plots/parallel/liccov/key-vs-test-wallclocktime-1.dat
+END
+key-vs-cputime.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-cputime.dat
+END
+parallelLiccov.p
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/parallelLiccov.p
+END
+key-vs-test-wallclocktime.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-test-wallclocktime.dat
+END
+makepdfParallel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/MOCHB/!svn/ver/1106/diss/gfx/MBT/plots/parallel/liccov/makepdfParallel.sh
+END
+key-vs-externallydischargedtos-only-max-external-discharges-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-externallydischargedtos-only-max-external-discharges-in-cluster.dat
+END
+key-vs-test-wallclocktime-only-min-test-wallclock-time-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-test-wallclocktime-only-min-test-wallclock-time-in-cluster.dat
+END
+key-vs-test-wallclocktime-only-max-test-wallclock-time-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/MOCHB/!svn/ver/1202/diss/gfx/MBT/plots/parallel/liccov/key-vs-test-wallclocktime-only-max-test-wallclock-time-in-cluster.dat
+END
+parallelLiccov.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/parallelLiccov.pdf
+END
+key-vs-wallclocktime-only-min-wallclock-time-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-wallclocktime-only-min-wallclock-time-in-cluster.dat
+END
+key-vs-internallydischargedtos-1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/MOCHB/!svn/ver/1077/diss/gfx/MBT/plots/parallel/liccov/key-vs-internallydischargedtos-1.dat
+END
+key-vs-wallclocktime-only-max-wallclock-time-in-cluster.dat
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-wallclocktime-only-max-wallclock-time-in-cluster.dat
+END
+key-vs-internallydischargedtos.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-internallydischargedtos.dat
+END
+key-vs-wallclocktime-1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/MOCHB/!svn/ver/1098/diss/gfx/MBT/plots/parallel/liccov/key-vs-wallclocktime-1.dat
+END
+key-vs-externallydischargedtos-1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/MOCHB/!svn/ver/1077/diss/gfx/MBT/plots/parallel/liccov/key-vs-externallydischargedtos-1.dat
+END
+cpToOld.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/MOCHB/!svn/ver/1202/diss/gfx/MBT/plots/parallel/liccov/cpToOld.sh
+END
+key-vs-wallclocktime.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-wallclocktime.dat
+END
+key-vs-externallydischargedtos.dat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/MOCHB/!svn/ver/1220/diss/gfx/MBT/plots/parallel/liccov/key-vs-externallydischargedtos.dat
+END
